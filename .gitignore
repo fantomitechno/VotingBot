@@ -1,0 +1,8 @@
+# Private variables
+.env
+
+# Packages
+node_modules/*
+
+# Built code
+build/*
